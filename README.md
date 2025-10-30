@@ -5,7 +5,7 @@
 - I'm currently enrolled full-time at The University of Reading, completeling a Bachelors degree in Computer Science.
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/jacob-b-e-taylor/" target="_onblank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="width:40px;"></a>
+<a href="https://www.linkedin.com/in/jacob-b-e-taylor/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="width:40px;"></a>
 
 ### Language and Tools:
 
